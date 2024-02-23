@@ -1,0 +1,12 @@
+C:\Users\Leila\source\repos\AccountimgManagement\AccountingManagement.Domain\bin\Debug\net8.0\AccountingManagement.Domain.deps.json
+C:\Users\Leila\source\repos\AccountimgManagement\AccountingManagement.Domain\bin\Debug\net8.0\AccountingManagement.Domain.dll
+C:\Users\Leila\source\repos\AccountimgManagement\AccountingManagement.Domain\bin\Debug\net8.0\AccountingManagement.Domain.pdb
+C:\Users\Leila\source\repos\AccountimgManagement\AccountingManagement.Domain\obj\Debug\net8.0\AccountingManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leila\source\repos\AccountimgManagement\AccountingManagement.Domain\obj\Debug\net8.0\AccountingManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\Leila\source\repos\AccountimgManagement\AccountingManagement.Domain\obj\Debug\net8.0\AccountingManagement.Domain.AssemblyInfo.cs
+C:\Users\Leila\source\repos\AccountimgManagement\AccountingManagement.Domain\obj\Debug\net8.0\AccountingManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Leila\source\repos\AccountimgManagement\AccountingManagement.Domain\obj\Debug\net8.0\AccountingManagement.Domain.dll
+C:\Users\Leila\source\repos\AccountimgManagement\AccountingManagement.Domain\obj\Debug\net8.0\refint\AccountingManagement.Domain.dll
+C:\Users\Leila\source\repos\AccountimgManagement\AccountingManagement.Domain\obj\Debug\net8.0\AccountingManagement.Domain.pdb
+C:\Users\Leila\source\repos\AccountimgManagement\AccountingManagement.Domain\obj\Debug\net8.0\ref\AccountingManagement.Domain.dll
+C:\Users\Leila\source\repos\AccountimgManagement\AccountingManagement.Domain\obj\Debug\net8.0\AccountingManagement.Domain.csproj.AssemblyReference.cache

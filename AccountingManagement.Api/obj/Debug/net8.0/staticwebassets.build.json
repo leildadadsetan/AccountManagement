@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "XxS9gJ1ep2VQFX0Sgco8YGZTek8hKi0pU7O8SfDqqA4=",
+  "Source": "AccountingManagement.Api",
+  "BasePath": "_content/AccountingManagement.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

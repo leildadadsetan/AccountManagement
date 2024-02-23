@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "JDzbG32V31sFRx2fuhlxgcUAzTH/2khCOyGsYo4gH621OInplt6cu0TpoB90fHeBx2jLe8V64hu+bt4qMJMT5w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Leila\\source\\repos\\AccountimgManagement\\AccountingManagement.ApplicationService\\AccountingManagement.ApplicationService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Leila\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
+    "C:\\Users\\Leila\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\Leila\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.1.0\\mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
+    "C:\\Users\\Leila\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Leila\\.nuget\\packages\\mongodb.bson\\2.24.0\\mongodb.bson.2.24.0.nupkg.sha512",
+    "C:\\Users\\Leila\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\Leila\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

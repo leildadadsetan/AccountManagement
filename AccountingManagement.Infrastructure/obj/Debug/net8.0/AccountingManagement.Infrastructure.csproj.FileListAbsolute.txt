@@ -1,0 +1,17 @@
+C:\Users\Leila\source\repos\AccountimgManagement\AccountingManagement.Infrastructure\obj\Debug\net8.0\AccountingManagement.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Leila\source\repos\AccountimgManagement\AccountingManagement.Infrastructure\obj\Debug\net8.0\AccountingManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leila\source\repos\AccountimgManagement\AccountingManagement.Infrastructure\obj\Debug\net8.0\AccountingManagement.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Leila\source\repos\AccountimgManagement\AccountingManagement.Infrastructure\obj\Debug\net8.0\AccountingManagement.Infrastructure.AssemblyInfo.cs
+C:\Users\Leila\source\repos\AccountimgManagement\AccountingManagement.Infrastructure\obj\Debug\net8.0\AccountingManagement.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Leila\source\repos\AccountimgManagement\AccountingManagement.Infrastructure\bin\Debug\net8.0\AccountingManagement.Infrastructure.deps.json
+C:\Users\Leila\source\repos\AccountimgManagement\AccountingManagement.Infrastructure\bin\Debug\net8.0\AccountingManagement.Infrastructure.dll
+C:\Users\Leila\source\repos\AccountimgManagement\AccountingManagement.Infrastructure\bin\Debug\net8.0\AccountingManagement.Infrastructure.pdb
+C:\Users\Leila\source\repos\AccountimgManagement\AccountingManagement.Infrastructure\bin\Debug\net8.0\AccountingManagement.ApplicationService.dll
+C:\Users\Leila\source\repos\AccountimgManagement\AccountingManagement.Infrastructure\bin\Debug\net8.0\AccountingManagement.Domain.dll
+C:\Users\Leila\source\repos\AccountimgManagement\AccountingManagement.Infrastructure\bin\Debug\net8.0\AccountingManagement.ApplicationService.pdb
+C:\Users\Leila\source\repos\AccountimgManagement\AccountingManagement.Infrastructure\bin\Debug\net8.0\AccountingManagement.Domain.pdb
+C:\Users\Leila\source\repos\AccountimgManagement\AccountingManagement.Infrastructure\obj\Debug\net8.0\AccountingManagement.Infrastructure.csproj.CopyComplete
+C:\Users\Leila\source\repos\AccountimgManagement\AccountingManagement.Infrastructure\obj\Debug\net8.0\AccountingManagement.Infrastructure.dll
+C:\Users\Leila\source\repos\AccountimgManagement\AccountingManagement.Infrastructure\obj\Debug\net8.0\refint\AccountingManagement.Infrastructure.dll
+C:\Users\Leila\source\repos\AccountimgManagement\AccountingManagement.Infrastructure\obj\Debug\net8.0\AccountingManagement.Infrastructure.pdb
+C:\Users\Leila\source\repos\AccountimgManagement\AccountingManagement.Infrastructure\obj\Debug\net8.0\ref\AccountingManagement.Infrastructure.dll

@@ -1,0 +1,15 @@
+C:\Users\Leila\source\repos\AccountimgManagement\AccountingManagement.ApplicationService\obj\Debug\net8.0\AccountingManagement.ApplicationService.csproj.AssemblyReference.cache
+C:\Users\Leila\source\repos\AccountimgManagement\AccountingManagement.ApplicationService\obj\Debug\net8.0\AccountingManagement.ApplicationService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leila\source\repos\AccountimgManagement\AccountingManagement.ApplicationService\obj\Debug\net8.0\AccountingManagement.ApplicationService.AssemblyInfoInputs.cache
+C:\Users\Leila\source\repos\AccountimgManagement\AccountingManagement.ApplicationService\obj\Debug\net8.0\AccountingManagement.ApplicationService.AssemblyInfo.cs
+C:\Users\Leila\source\repos\AccountimgManagement\AccountingManagement.ApplicationService\obj\Debug\net8.0\AccountingManagement.ApplicationService.csproj.CoreCompileInputs.cache
+C:\Users\Leila\source\repos\AccountimgManagement\AccountingManagement.ApplicationService\bin\Debug\net8.0\AccountingManagement.ApplicationService.deps.json
+C:\Users\Leila\source\repos\AccountimgManagement\AccountingManagement.ApplicationService\bin\Debug\net8.0\AccountingManagement.ApplicationService.dll
+C:\Users\Leila\source\repos\AccountimgManagement\AccountingManagement.ApplicationService\bin\Debug\net8.0\AccountingManagement.ApplicationService.pdb
+C:\Users\Leila\source\repos\AccountimgManagement\AccountingManagement.ApplicationService\bin\Debug\net8.0\AccountingManagement.Domain.dll
+C:\Users\Leila\source\repos\AccountimgManagement\AccountingManagement.ApplicationService\bin\Debug\net8.0\AccountingManagement.Domain.pdb
+C:\Users\Leila\source\repos\AccountimgManagement\AccountingManagement.ApplicationService\obj\Debug\net8.0\AccountingManagement.ApplicationService.csproj.CopyComplete
+C:\Users\Leila\source\repos\AccountimgManagement\AccountingManagement.ApplicationService\obj\Debug\net8.0\AccountingManagement.ApplicationService.dll
+C:\Users\Leila\source\repos\AccountimgManagement\AccountingManagement.ApplicationService\obj\Debug\net8.0\refint\AccountingManagement.ApplicationService.dll
+C:\Users\Leila\source\repos\AccountimgManagement\AccountingManagement.ApplicationService\obj\Debug\net8.0\AccountingManagement.ApplicationService.pdb
+C:\Users\Leila\source\repos\AccountimgManagement\AccountingManagement.ApplicationService\obj\Debug\net8.0\ref\AccountingManagement.ApplicationService.dll
