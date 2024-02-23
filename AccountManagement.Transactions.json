@@ -1,0 +1,75 @@
+[{
+  "_id": {
+    "$oid": "65d88cb62f44b52334abeca9"
+  },
+  "UserID": "65d888bf2f44b52334abeca1",
+  "Amount": 500,
+  "Description": "Deposit",
+  "Timestamp": "2022-02-20T12:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "65d896353a3b11254faee477"
+  },
+  "UserID": "65d888bf2f44b52334abeca1",
+  "Amount": "40",
+  "Timestamp": {
+    "$date": "2024-02-23T12:57:25.162Z"
+  },
+  "Description": null
+},
+{
+  "_id": {
+    "$oid": "65d896433a3b11254faee478"
+  },
+  "UserID": "65d888bf2f44b52334abeca1",
+  "Amount": "1",
+  "Timestamp": {
+    "$date": "2024-02-23T12:57:39.454Z"
+  },
+  "Description": null
+},
+{
+  "_id": {
+    "$oid": "65d89a0db1148289173c44e8"
+  },
+  "UserID": "65d888bf2f44b52334abeca1",
+  "Amount": "110",
+  "Timestamp": {
+    "$date": "2024-02-23T13:13:49.066Z"
+  },
+  "Description": null
+},
+{
+  "_id": {
+    "$oid": "65d89a22b1148289173c44e9"
+  },
+  "UserID": "65d888bf2f44b52334abeca1",
+  "Amount": "1110",
+  "Timestamp": {
+    "$date": "2024-02-23T13:14:10.503Z"
+  },
+  "Description": null
+},
+{
+  "_id": {
+    "$oid": "65d89a29b1148289173c44ea"
+  },
+  "UserID": "65d888bf2f44b52334abeca1",
+  "Amount": "2000",
+  "Timestamp": {
+    "$date": "2024-02-23T13:14:17.301Z"
+  },
+  "Description": null
+},
+{
+  "_id": {
+    "$oid": "65d89a2cb1148289173c44eb"
+  },
+  "UserID": "65d888bf2f44b52334abeca1",
+  "Amount": "2000",
+  "Timestamp": {
+    "$date": "2024-02-23T13:14:20.189Z"
+  },
+  "Description": null
+}]

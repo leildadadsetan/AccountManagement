@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "65d888bf2f44b52334abeca1"
+  },
+  "Name": "John Doe",
+  "Balance": "6771",
+  "Transactions": [
+    {
+      "_id": null,
+      "UserID": null,
+      "Amount": "500",
+      "Timestamp": {
+        "$date": "2022-02-20T12:00:00.000Z"
+      },
+      "Description": "Deposit"
+    },
+    {
+      "_id": null,
+      "UserID": null,
+      "Amount": "-200",
+      "Timestamp": {
+        "$date": "2022-02-20T13:00:00.000Z"
+      },
+      "Description": "Withdrawal"
+    }
+  ]
+}]
